@@ -17,13 +17,12 @@ A chrome extension to summarise long YouTube videos by utilising YouTube's trans
 
 ## Some Snapshots
 
-<div style="display: flex;">
-    <div style="flex: 50%; padding: 10px;">
-        <img src="demo/image-1.png" alt="Image 1" style="max-width: 100%; height: auto;">
-    </div>
-    <div style="flex: 50%; padding: 10px;">
-        <img src="demo/image-2.png" alt="Image 2" style="max-width: 100%; height: auto;">
-    </div>
-</div>
-
-![summarised output](demo\image-3.png)
+<table style="width:100%;">
+  <tr>
+    <td><img src="demo/image-1.png" alt="Image 1" style="max-width: 100%; height: auto;"></td>
+    <td><img src="demo/image-2.png" alt="Image 2" style="max-width: 100%; height: auto;"></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="demo/image-3.png" alt="Image 3" style="max-width: 100%; height: auto;"></td>
+  </tr>
+</table>
